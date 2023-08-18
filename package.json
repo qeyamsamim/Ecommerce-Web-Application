@@ -1,0 +1,37 @@
+{
+  "name": "ecommerce-new-2",
+  "version": "0.1.0",
+  "private": true,
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.1",
+    "aos": "^3.0.0-beta.6",
+    "bootstrap": "^5.2.3",
+    "cra-template": "1.2.0",
+    "framer-motion": "^8.4.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-redux": "^8.0.5",
+    "react-router-dom": "^6.6.2",
+    "react-scripts": "5.0.1",
+    "reactstrap": "^9.1.5",
+    "remixicon": "^2.5.0"
+  },
+  "devDependencies": {
+    "typescript": "4.7.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

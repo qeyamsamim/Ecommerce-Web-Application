@@ -1,0 +1,19 @@
+.auth-form {
+    background: var(--primary-color);
+    padding: 40px;
+    border-radius: 10px;
+}
+
+.login-button {
+    background: #fff !important;
+    color: var(--primary-color);
+    font-weight: 600;
+}
+
+.auth-form p {
+    margin-top: 20px;
+}
+
+.auth-form p a {
+    color: rgba(255, 255, 255, 0.735);
+}
